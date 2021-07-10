@@ -9,3 +9,5 @@ bigbang
 thefttools
 
 game closed
+
+mission aborted
